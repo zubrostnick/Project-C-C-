@@ -1,4 +1,4 @@
 # Project-C-C-
 Zubko Rostyslav, KNU, Mechmat
-7. (Curve:Ellipse,Hyperbole, Parabole)
+7. (Curves: Ellipse, Hyperbola, Parabola)
 Consists of two directories (one for C, one for C++)
